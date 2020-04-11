@@ -1,4 +1,4 @@
-DataScience
+NLP
 ===========
-
-Data Science Repo
+- Hidden Markov Model (HMM)
+- Sentiment Analysis
